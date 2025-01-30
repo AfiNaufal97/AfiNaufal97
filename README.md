@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AfiNaufal
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in mobile development and Web development
 - 🌱 I’m currently learning Android With Compose and Flutter
 - 📫 reach me naufal.setiawan92@gmail.com
 
